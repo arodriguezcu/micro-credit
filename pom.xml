@@ -12,9 +12,9 @@
   </parent>
   
   <groupId>com.everis</groupId>
-  <artifactId>credit-consumer-service</artifactId>
+  <artifactId>micro-credit</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>credit-consumer-service</name>
+  <name>micro-credit</name>
   <description>Microservicio para consumo credito</description>
   
   <properties>
