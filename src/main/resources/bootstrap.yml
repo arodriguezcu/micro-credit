@@ -1,6 +1,6 @@
 spring:
   application:
-    name: credit-consumer-service
+    name: micro-credit
   cloud:
     config:
 #      uri: http://localhost:8081
